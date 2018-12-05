@@ -1,2 +1,2 @@
 # hello-world
-brief 
+简短  hello world
